@@ -19,7 +19,7 @@ if number_of_arguments == 1 or number_of_arguments > 2:
     print("Syntax: ./virus_total.py <file_name>")
 else:
     # Replace "<your_api_key_here>" with your actual VirusTotal API key
-    api_key = "19e3c0547026c9193d458a9f335db0d03c41cf07a01faff4b08fa604c98fc836"
+    api_key = "your-api-key"
     
     # Read the content of the file
     file_content = read_file(sys.argv[1])
