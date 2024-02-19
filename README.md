@@ -1,4 +1,4 @@
-# VirusTotal File Scanner :computer:
+# File Scanner :computer:
 
 This Python script allows you to scan a file using the VirusTotal API to check for any potential malware or viruses. :shield:
 
