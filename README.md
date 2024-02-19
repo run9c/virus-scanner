@@ -1,6 +1,23 @@
-# virus-scanner
+# VirusTotal File Scanner :computer:
+
+This Python script allows you to scan a file using the VirusTotal API to check for any potential malware or viruses. :shield:
+
+## Prerequisites :clipboard:
+
+Before using this script, you need to have the following installed:
+
+- Python 3 :snake:
+- The `virus_total_apis` library (`pip install virus_total_apis`) :package:
+
+## Usage :hammer_and_wrench:
+
+1. Clone the repository or download the `virus_total.py` file. :arrow_down:
+2. Open a terminal or command prompt. :computer:
+3. Navigate to the directory containing the `virus_total.py` file. :file_folder:
+4. Run the script with the following command:
 
 
+<img scr="https://github.com/run9c/virus-scanner/blob/main/assets/scan.png">
 
 ## 👇 Full Result 
 ```
