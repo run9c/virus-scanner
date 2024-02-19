@@ -15,9 +15,16 @@ Before using this script, you need to have the following installed:
 2. Open a terminal or command prompt. :computer:
 3. Navigate to the directory containing the `virus_total.py` file. :file_folder:
 4. Run the script with the following command:
+```python virus_total.py <file_name>```
+
+## Notes :pencil:
+
+- Ensure that you have obtained a VirusTotal API key. Replace `<your_api_key_here>` in the script with your actual API key. :key:
+- This script calculates the MD5 hash of the file and uses it to retrieve the file report from VirusTotal. :1234:
+- The response from VirusTotal is printed in JSON format with proper indentation. :page_facing_up:
 
 
-<img scr="https://github.com/run9c/virus-scanner/blob/main/assets/scan.png">
+<img src="https://github.com/run9c/virus-scanner/blob/main/assets/scan.png">
 
 ## 👇 Full Result 
 ```
